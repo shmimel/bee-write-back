@@ -1,5 +1,32 @@
-Onshape files [here](https://cad.onshape.com/documents/e6482d1ab00cb5a2719e37b7/w/38d6de8130338c05d74e4ecf/e/8865c15cb975933cc3691846?renderMode=0&uiState=69bdc61baa0cf63feb704019). Feel free to copy and modify the CAD!
+# Bee Write Back
 
+![Bee Write Back WriterDeck](images/deck.jpeg)
+
+## Introduction
+
+I struggled to fall alseep easily for a while, and after being recommended journaling I found that it helped me immensely. The one catch was that I didn't like writing in a physical journal, since I would be greeted by all of my previous entries and all the emotions would come flooding back.
+
+To solve this problem, I created a simple Raspberry Pi based journal, which I could use each night, entering in the chaos of the day, locking it away once I was done
+
+After creating this, I found that the form factor of the writerdeck was really fun to use, and began developing more apps and functions, including a Claude chat client.
+
+#### Future plans include:
+- Live coding music workspace
+- Simple synthesizer
+- Mixxx ASCII GUI
+- Better battery management
+
+## What if I want to make one?
+
+Since this is still a WIP, I don't have a full build guide just yet, but feel free to modify and use the materials that I used as a starting point.
+
+I recently ordered a PiJuice Zero, and will update if this ends up being the best solution for battery management.
+
+You can find STEP and STL files available in the "CAD" directory, or if you want to go play around with the CAD, you can check it out in Onshape [here](https://cad.onshape.com/documents/e6482d1ab00cb5a2719e37b7/w/38d6de8130338c05d74e4ecf/e/8865c15cb975933cc3691846?renderMode=0&uiState=69bdc61baa0cf63feb704019). Onshape is free to use (but all designs are public), so I encourage you to create an account and start learning about CAD!
+
+
+[![Bee Write Back Demo Video](https://img.youtube.com/vi/mUFC60MM2Fw/0.jpg)](https://youtu.be/mUFC60MM2Fw)
+^ Click me to watch a quick demo ^
 
 ## Parts List
 
