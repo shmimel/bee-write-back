@@ -16,18 +16,28 @@ After creating this, I found that the form factor of the writerdeck was really f
 - Mixxx ASCII GUI
 - Better battery management
 
-## What if I want to make one?
+## Sounds cool, I want to make one!
 
 Since this is still a WIP, I don't have a full build guide just yet, but feel free to modify and use the materials that I used as a starting point.
 
 I recently ordered a PiJuice Zero, and will update if this ends up being the best solution for battery management.
 
-You can find STEP and STL files available in the "CAD" directory, or if you want to go play around with the CAD, you can check it out in Onshape [here](https://cad.onshape.com/documents/e6482d1ab00cb5a2719e37b7/w/38d6de8130338c05d74e4ecf/e/8865c15cb975933cc3691846?renderMode=0&uiState=69bdc61baa0cf63feb704019). Onshape is free to use (but all designs are public), so I encourage you to create an account and start learning about CAD!
+You can find STEP and STL files available in the [CAD](CAD) directory, or if you want to go spin the model around, you can check it out in Onshape [here](https://cad.onshape.com/documents/e6482d1ab00cb5a2719e37b7/w/38d6de8130338c05d74e4ecf/e/8865c15cb975933cc3691846?renderMode=0&uiState=69bdc61baa0cf63feb704019). Onshape is free to use (but all designs are public), so I encourage you to create an account and start learning about CAD!
 
 
 [![Bee Write Back Demo Video](https://img.youtube.com/vi/mUFC60MM2Fw/0.jpg)](https://youtu.be/mUFC60MM2Fw)
 
 ^ Click me to watch a quick demo ^
+
+## 3D Printing
+
+If you want to 3D print this, you can find the STL's and 3MF files in the [CAD](CAD) directory.
+
+Since the faceplate utilizes multicolor printing, I have included a 3MF file. If you don't have access to multicolor printing or just want a blank faceplate, the regular STL will work.
+
+I printed everything out of PLA, with no supports, but I would assume that any material (minus TPU) would work well.
+
+I plan to make a two part version that can fit on the bed of the Bambu Lab A1 Mini.
 
 ## Parts List
 
@@ -51,8 +61,16 @@ You can find STEP and STL files available in the "CAD" directory, or if you want
 
 **Total: ~$200**
 
+## Issues
+
+The OLED screen that I sourced arrived crooked, meaning that I had to adjust the mounting holes on the screen holder. I plan to make the holes larger and incorporate washers to accomodate for this discrepancy.
+
+The battery life sucks right now, and the power switch does a full power cycle when flipped. Hopefully with the PiJuice Zero I can integrate a sleep mode.
+
 ## TODO
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [x] Create Github repo
+- [x] Record demo for Youtube
+- [ ] Integrate PiJuice power hat
+- [ ] Integrate I2S audio hat
+- [ ] Clean up wiring (custom PCB?)
