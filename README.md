@@ -39,6 +39,19 @@ I printed everything out of PLA, with no supports, but I would assume that any m
 
 I plan to make a two part version that can fit on the bed of the Bambu Lab A1 Mini.
 
+## Software
+
+I have included the two scripts that I vibe coded (I know it's lazy, but I have a background as a mechanical engineer, so programming is not my strong suit).
+
+My current setup revolves around using 3 virtual terminals:
+1. Standard terminal
+2. Claude chat
+3. Journal
+
+I will soon add on a little tutorial file on how to enable 3 different terminals. There are also a few other tweaks I made, such as disabling login text for a cleaner UI experience.
+
+I have tried to keep everything as minimal and light as possible, so the scripts require Python and the Anthropic API packages to run.
+
 ## Parts List
 
 | Part | Qty | Cost | Link | Notes |
