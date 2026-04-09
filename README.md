@@ -1,6 +1,6 @@
 # Bee Write Back
 
-![Bee Write Back WriterDeck](images/bee-write-back.jpeg)
+![Bee Write Back WriterDeck](images/bee-write-back.jpg)
 
 ## Table of Contents
 
@@ -55,4 +55,4 @@ For more a more detailed breakdown of the cost for each variant, please referenc
 
 **TOTAL COST: $200**
 
-(This number does NOT include shipping, taxes and/or tariffs)
+(This number does not include shipping, taxes and/or tariffs)
