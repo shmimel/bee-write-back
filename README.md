@@ -21,8 +21,10 @@ To solve this problem, I created a simple Raspberry Pi based journal, which I co
 ![Bee Write Back Components](images/BOM.jpg)
   
 You can view the PDF [here](Hardware/Bee%20Write%20Back%20Build%20Guide.pdf)  
-Or you can watch an assembly video [here](https://youtu.be/JutsTp7yeNU)  
-And if you're curious, try spinning around the 3D model [here](https://cad.onshape.com/documents/e6482d1ab00cb5a2719e37b7/w/38d6de8130338c05d74e4ecf/e/8865c15cb975933cc3691846?renderMode=0&uiState=69bdc61baa0cf63feb704019). Onshape is free, and I highly encourage taking a look at the model in 3D!
+Or the assembly video [here](https://youtu.be/JutsTp7yeNU)
+And when you're ready to print, check out the print profile [here](https://makerworld.com/en/models/2643352-bee-write-back-diy-writerdeck#profileId-2921008)  
+  
+P.S. if you're curious, try spinning around the 3D model [here](https://cad.onshape.com/documents/e6482d1ab00cb5a2719e37b7/w/38d6de8130338c05d74e4ecf/e/8865c15cb975933cc3691846?renderMode=0&uiState=69bdc61baa0cf63feb704019). Onshape is free, and I highly encourage taking a look at the model in 3D!
 
 ## Hardware
 
